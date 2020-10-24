@@ -21,7 +21,7 @@
     "blueimp-file-upload-expressjs": "^0.2.10",
     "body-parser": "~1.0.0",
     "cookie-parser": "~1.0.1",
-    "debug": "~0.7.4",
+    "debug": "~4.2.0",
     "ejs": "~0.8.5",
     "express": "~4.0.0",
     "morgan": "~1.0.0",
